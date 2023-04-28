@@ -1,0 +1,15 @@
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.csproj.AssemblyReference.cache
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.AssemblyInfoInputs.cache
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.AssemblyInfo.cs
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.csproj.CoreCompileInputs.cache
+E:\C# Projects\PortfolioOfEvidence\bin\Debug\net6.0\PortfolioOfEvidence.exe
+E:\C# Projects\PortfolioOfEvidence\bin\Debug\net6.0\PortfolioOfEvidence.deps.json
+E:\C# Projects\PortfolioOfEvidence\bin\Debug\net6.0\PortfolioOfEvidence.runtimeconfig.json
+E:\C# Projects\PortfolioOfEvidence\bin\Debug\net6.0\PortfolioOfEvidence.dll
+E:\C# Projects\PortfolioOfEvidence\bin\Debug\net6.0\PortfolioOfEvidence.pdb
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.dll
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\refint\PortfolioOfEvidence.dll
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.pdb
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\PortfolioOfEvidence.genruntimeconfig.cache
+E:\C# Projects\PortfolioOfEvidence\obj\Debug\net6.0\ref\PortfolioOfEvidence.dll
